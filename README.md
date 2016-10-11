@@ -45,4 +45,14 @@
     for the observed, for example,  performance and power data.
     Project includes: 1) QR implementation for least squares fit.
     2) R Language interface to call the fit methods
+       
+    [**Benchmarks / SparseLinearSolverRTEMS**](http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems)
+
+   git clone http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems.git
+ 
+    Sparse linear system Ax=y solver (Conjugate gradient method)
+    for  x86 and  RTEMS platforms (particularly Movidius Dev. Kit).
+    The package includes EXCESS HPC-Services, which provide an
+    interface, based on TCP/IP communication, for an external
+    Application.
   
