@@ -1,5 +1,4 @@
 # README
-ToDO[DENNIS]
 
    [**Concurrent_threads**](http://gitlab.excess-project.eu/benchmarks/concurrent_threads)
    
@@ -12,21 +11,25 @@ ToDO[DENNIS]
    
    git clone http://gitlab.excess-project.eu/benchmarks/dgemm_cublas.git
 
-    Power and performance profiling of EXCESS cluster: This sample is based on the NVIDIA exmaple for XGEMM operation.
-    3 commits · 1 branch · 0 tags
+    Power and performance profiling of EXCESS cluster: This sample is based on the NVIDIA 
+    exmaple for XGEMM operation.
+  
    
    [**Ethernet_Bandwidth_x86_myriad2**](http://gitlab.excess-project.eu/benchmarks/ethernet_bandwidth_x86_myriad2)
    
    git clone http://gitlab.excess-project.eu/benchmarks/ethernet_bandwidth_x86_myriad2.git
 
-    Measure of Ethernet Bandwidth: Works on Linux and RTEMS platforms (particularly on Movidius Developer Kit System)
+    Measure of Ethernet Bandwidth: Works on Linux and RTEMS platforms 
+    (particularly on Movidius Developer Kit System).
    
    [**mpi_ping_pong**](http://gitlab.excess-project.eu/benchmarks/mpi_ping_pong)
    
    git clone http://gitlab.excess-project.eu/benchmarks/mpi_ping_pong.git
 
-    Ping pong benchmark ( Authors: Joel Malard, Alan Simpson, (EPCC) ; Rolf Rabenseifner, Traugott Streicher (HLRS) )
-    has been adapted and extended to scan the topology and power consumption of the EXCESS cluster components.
+    Ping pong benchmark ( Authors: Joel Malard, Alan Simpson, (EPCC);
+    Rolf Rabenseifner, Traugott Streicher (HLRS) )
+    has been adapted and extended to scan the topology and
+    power consumption of the EXCESS cluster components.
     
    [**PCIe_Bandwidth_and_Kernel_StartUp_Latency**](http://gitlab.excess-project.eu/benchmarks/pcie_bandwidth_and_kernel_startup_latency)
    
@@ -40,5 +43,6 @@ ToDO[DENNIS]
 
     RQR library may assist in finding an analytical approximations with the QR algorithm 
     for the observed, for example,  performance and power data.
-    Project includes: 1) QR implementation for least squares fit. 2) R Language interface to call the fit methods
+    Project includes: 1) QR implementation for least squares fit.
+    2) R Language interface to call the fit methods
   
