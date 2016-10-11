@@ -35,7 +35,7 @@
    
    git clone http://gitlab.excess-project.eu/benchmarks/pcie_bandwidth_and_kernel_startup_latency.git
 
-    Determination of Bandwidth of PCIe and Latency Start of the Empty Kernel on GPU
+    This benchmark measures the  Bandwidth of PCIe and StartUp time of an empty CUDA kernel on GPU.
    
    [**Benchmarks / RQR**](http://gitlab.excess-project.eu/benchmarks/rqr)
    
