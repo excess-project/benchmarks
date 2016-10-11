@@ -3,31 +3,30 @@
 TODO (Dennis)
 
 
-   Benchmarks / Concurrent_threads
+   [**Concurrent_threads**](http://gitlab.excess-project.eu/benchmarks/concurrent_threads)
     git clone http://gitlab.excess-project.eu/benchmarks/concurrent_threads.git
 
     Power and performance profiling of the EXCESS cluster: The benchmark is intended to help to estimate 
     the power consumption   and performance of two kernels: XGEMM and DOT product on CPUs.
       
-   Benchmarks / DGEMM_CUBLAS
+   **DGEMM_CUBLAS**
    git clone http://gitlab.excess-project.eu/benchmarks/dgemm_cublas.git
 
     Power and performance profiling of EXCESS cluster: This sample is based on the NVIDIA exmaple for XGEMM operation.
     3 commits · 1 branch · 0 tags
    
-   Benchmarks / Ethernet_Bandwidth_x86_myriad2
+   **Ethernet_Bandwidth_x86_myriad2**
    git clone http://gitlab.excess-project.eu/benchmarks/ethernet_bandwidth_x86_myriad2.git
 
     Measure of Ethernet Bandwidth: Works on Linux and RTEMS platforms (particularly on Movidius Developer Kit System)
-    6 commits · 1 branch · 0 tags
    
-   Benchmarks / mpi_ping_pong
+   **mpi_ping_pong**
    git clone http://gitlab.excess-project.eu/benchmarks/mpi_ping_pong.git
 
     Ping pong benchmark ( Authors: Joel Malard, Alan Simpson, (EPCC) ; Rolf Rabenseifner, Traugott Streicher (HLRS) )
     has been adapted and extended to scan the topology and power consumption of the EXCESS cluster components.
     
-   Benchmarks / PCIe_Bandwidth_and_Kernel_StartUp_Latency
+   **PCIe_Bandwidth_and_Kernel_StartUp_Latency**
    git clone http://gitlab.excess-project.eu/benchmarks/pcie_bandwidth_and_kernel_startup_latency.git
 
     Determination of Bandwidth of PCIe and Latency Start of the Empty Kernel on GPU
