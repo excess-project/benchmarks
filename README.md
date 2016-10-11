@@ -3,7 +3,7 @@
 TODO (Dennis)
 
 
-   Benchmarks / Concurrent_threads
+Benchmarks / Concurrent_threads
    git clone http://gitlab.excess-project.eu/benchmarks/concurrent_threads.git
 
     Power and performance profiling of the EXCESS cluster: The benchmark is intended to help to estimate 
