@@ -44,8 +44,9 @@
     RQR library may assist in finding an analytical approximations with the QR algorithm 
     for the observed, for example,  performance and power data.
     Project includes: 1) QR implementation for least squares fit.
-    2) R Language interface to call the fit methods
-       
+    2) R Language interface to call the fit methods.
+    
+    
     [**Benchmarks / SparseLinearSolverRTEMS**](http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems)
 
    git clone http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems.git
