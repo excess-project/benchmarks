@@ -46,8 +46,8 @@
     Project includes: 1) QR implementation for least squares fit.
     2) R Language interface to call the fit methods.
     
-    
-    [**Benchmarks / SparseLinearSolverRTEMS**](http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems)
+
+[**Benchmarks / SparseLinearSolverRTEMS**](http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems)
 
    git clone http://gitlab.excess-project.eu/numlibs/sparselinearsolverrtems.git
  
