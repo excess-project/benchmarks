@@ -1,4 +1,4 @@
-# README
+# Overview of available EXCESS Benchmarks
 
    [**Concurrent_threads**](http://gitlab.excess-project.eu/benchmarks/concurrent_threads)
    
